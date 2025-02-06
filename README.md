@@ -1,5 +1,3 @@
-# Application_expressbackend_azure_mongodb
-
 # Application Express Backend Azure MongoDB
 
 A fully functional MongoDB API built with an Express backend and deployed on Azure. This project demonstrates how to integrate MongoDB with an Express application and securely manage your credentials for a scalable cloud-based environment.
