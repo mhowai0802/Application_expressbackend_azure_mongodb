@@ -43,7 +43,7 @@ This project is designed to help you create a MongoDB API in Azure using an Expr
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/yourusername/Application_expressbackend_azure_mongodb.git
+git clone https://github.com/mhowai0802/Application_expressbackend_azure_mongodb.git
 
 Create Mongo DB API in Azure 
 ![My animated logo](picture/mongodb_01.png)
