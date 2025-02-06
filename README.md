@@ -2,6 +2,12 @@
 
 A fully functional MongoDB API built with an Express backend and deployed on Azure. This project demonstrates how to integrate MongoDB with an Express application and securely manage your credentials for a scalable cloud-based environment.
 
+Create Mongo DB API in Azure 
+![My animated logo](picture/mongodb_01.png)
+
+Insert credentials in Express backend
+![My animated logo](picture/mongodb_02.png)
+
 ---
 
 ## Table of Contents
@@ -43,8 +49,4 @@ Open your terminal and run:
 ```bash
 git clone https://github.com/mhowai0802/Application_expressbackend_azure_mongodb.git
 
-Create Mongo DB API in Azure 
-![My animated logo](picture/mongodb_01.png)
 
-Insert credentials in Express backend
-![My animated logo](picture/mongodb_02.png)
